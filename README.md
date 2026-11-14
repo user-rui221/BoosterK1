@@ -6,6 +6,7 @@ K1机器人的调试代码存放在[https://github.com/user-rui221/BoosterK1-cod
 [docker容器配置](./docs/env/容器配置文档说明.md)
 [自定义裁判机使用](./docs/env/自定义裁判盒安装说明.md)
 [镜像下载说明](./docs/env/镜像下载说明.md)
+[Windows部署与精简镜像编译](./docs/env/Windows部署与精简镜像编译说明.md)
 ### 运行机器人
 [第一次启动机器人](./docs/start/第一次启动机器人.md)
 
